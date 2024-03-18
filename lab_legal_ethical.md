@@ -25,11 +25,11 @@ This raises privacy concers and also exploits customers with direct marketing an
 
 #### Scenario 2
 
-
+Monetising the game can lead to addiction and excessive spending, but also giving players who are not willing to pay a disadvantage.
 
 #### Scenario 3
 
-
+The premium membership defeats the whole purpose of easily creating social connections and can leas to inequality. There is also the risk of exploiting users' personal information and raises privacy concerns when users' location data is shared.
 
 
 ### 3. What could the company do to address these issues?
